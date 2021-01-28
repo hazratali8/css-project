@@ -1,0 +1,67 @@
+body{
+    background: aqua;
+}
+.css{
+    background-color: red;
+    font-size: 60px;
+    font-family: tahoma;
+
+}
+.sm{
+    color: red;
+    font-size: 50px;
+    margin: 20px 50px;
+}
+.bd{
+    
+    color: thistle;
+    font-size: 40px;
+    color: white;
+    margin: 30px 60px;
+}
+#col {
+   
+    color: blue;
+    font-size: 45px;
+}
+.md {
+    font-size: 30px;
+    background-color: yellow;
+    color: green;
+    padding: 30px 50px;
+
+  
+}
+.haz{
+    color: red;
+    font-size: 40px;
+    background-color: indianred;
+}
+.area-all{
+    text-align: center;
+    background-color: pink;
+    color: red;
+    font-size: 25px;
+
+}
+.ab{
+    color: blueviolet;
+}
+.cd{
+    color: red;
+}
+.ef{
+    color:brown;
+}
+.gh{
+    color: hotpink;
+    
+    margin: 10px;
+}
+.ij{
+    color:navy;
+    margin: 10px;
+    
+    
+}
+
